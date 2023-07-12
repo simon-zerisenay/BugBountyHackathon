@@ -8,7 +8,7 @@ https://aimonline.emirates.com
 https://apollo.emirates.com
 https://auth.emirates.com
 https://bayti.emirates.com
-https://baytiportal.emirates.com
+https://baytiportal.emirates.com 
 https://bids.emirates.com
 https://capbicsservices.emirates.com
 https://cat360-ek.emirates.com

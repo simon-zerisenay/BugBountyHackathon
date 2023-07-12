@@ -8,7 +8,7 @@
 "*.a104-116-28-77.deploy.ektest.emirates.com",""
 "thissubdomainshouldonlyresolveifwildcard.a104-116-28-77.deploy.ektest.emirates.com",""
 "a104-121-94-154.deploy.ektest.emirates.com",""
-"*.a104-121-94-154.deploy.ektest.emirates.com",""
+"*.a104-121-94-154.deploy.ektest.emirates.com","" 
 "thissubdomainshouldonlyresolveifwildcard.a104-121-94-154.deploy.ektest.emirates.com",""
 "*.thissubdomainshouldonlyresolveifwildcard.a104-121-94-154.deploy.ektest.emirates.com",""
 "thissubdomainshouldonlyresolveifwildcard.thissubdomainshouldonlyresolveifwildcard.a104-121-94-154.deploy.ektest.emirates.com",""

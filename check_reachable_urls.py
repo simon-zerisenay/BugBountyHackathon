@@ -10,7 +10,7 @@ def is_reachable(url):
 
 with open('subdomains.csv', 'r') as csvfile:
     reader = csv.reader(csvfile, delimiter=',')
-    for row in reader:
+    for row in reader: 
         url = row[0]
         if url != '': 
             if is_reachable(url):

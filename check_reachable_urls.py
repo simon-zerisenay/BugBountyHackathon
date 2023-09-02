@@ -3,7 +3,7 @@ import requests
  
 def is_reachable(url):
     try:
-        response = requests.get(url.replace(' ', '%20'))
+        response = requests.get(url.replace(' ', '%20')) 
         return response.status_code == 200
     except (requests.exceptions.InvalidURL, requests.exceptions.MissingSchema):
         return False

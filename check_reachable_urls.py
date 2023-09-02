@@ -1,6 +1,6 @@
 import csv
 import requests
-
+ 
 def is_reachable(url):
     try:
         response = requests.get(url.replace(' ', '%20'))
